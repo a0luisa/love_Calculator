@@ -1,0 +1,30 @@
+body{
+  background-color: pink;
+  color:#3D3F3D;
+  font-size: 1.5rem;
+  font-family: sans-serif;
+}
+div{
+  text-align: center;
+}
+.title{
+  padding: 3rem;
+}
+.answer{
+  margin: 1.5rem auto 3rem auto;
+}
+
+h1{
+  font-size: 5rem;
+  color: red;
+  font-family: 'Parisienne', cursive;
+}
+.btn{
+  width: 20%;
+  padding: 0.5rem;
+  font-family: cursive;
+  background-color: #B676D6;
+}
+button:hover{
+  background-color: #E5CBF1;
+}
